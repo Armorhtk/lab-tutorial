@@ -10,6 +10,14 @@
 
 **教程使用说明：仅供院实验室人员交流讨论使用，如有任何问题邮箱联系或issues!**
 
+请提前下载文件，包含以下文件：https://pan.baidu.com/s/1UFpDouyHhBdtnv_k7Hl6jQ （提取码：2021 ）
+
+[1] Tencent_word2vec_100w / text.model.bin 等词向量
+
+[2] bert预训练模型.rar（需解压）
+
+[3] weibo_sentiment.csv数据集
+
 
 
 
